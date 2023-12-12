@@ -1,0 +1,32 @@
+.title {
+  color: white;
+  background-color: rgb(48, 47, 47);
+  padding: 5px;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.shipcontainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px;
+  margin: 10 px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.ship {
+  height: 100px;
+  width: 200px;
+  border:  2px solid #001115aa;
+  color: whitesmoke;
+  background-color:rgb(3, 66, 102);
+  border-radius: 5px;
+  margin: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  align-content: center;
+  text-align: center;
+}
+
+
